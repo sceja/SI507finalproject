@@ -2,3 +2,5 @@ secrets.py
 /__pycache__/
 .DS_Store
 *.icloud
+*.db
+*.db-journal
